@@ -1,2 +1,2 @@
 # feldbergdatalab
-Dartmouth Feldberg Library Data Lab 
+Dartmouth Library Data Lab 
